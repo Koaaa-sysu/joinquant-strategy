@@ -1,0 +1,3 @@
+display_name: 聚宽量化策略
+short_description: 在聚宽平台创建、回测和部署量化交易策略
+default_prompt: 帮我在聚宽上写一个量化策略并跑回测
